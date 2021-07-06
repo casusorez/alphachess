@@ -1,0 +1,12 @@
+ficsgames.org download from 2021-07-05 05:59:31 with search parameters:
+ignore colors =  yes
+only rated games = no
+Variant = Standard
+From Date (UTC) = 1999-01-01 05:00:00
+Until Date (UTC)= 2021-07-05 09:59:31
+Both player ratings: 2200-2399 
+Computer and human games: all games
+Game Result: White wins
+Time controls: Any time per game / Any Increment
+ECO = any
+Game count: 5000 games

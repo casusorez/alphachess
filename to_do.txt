@@ -1,0 +1,4 @@
+lister tous les moves possibles :
+	pour chaque pièce, pour chaque case, faire legal_moves => ajouter à une liste
+	supprimer les doublons
+cr
