@@ -1,4 +1,18 @@
 lister tous les moves possibles :
 	pour chaque pièce, pour chaque case, faire legal_moves => ajouter à une liste
 	supprimer les doublons
-cr
+
+Prédiction victoire :
+	https://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/
+	http://cs230.stanford.edu/projects_spring_2021/reports/66.pdf
+Comparaison 2 positions :
+	https://www.cs.tau.ac.il/~wolf/papers/deepchess.pdf
+	DBN : https://learning.oreilly.com/library/view/mastering-machine-learning/9781788621113/cdb48a3c-1020-4120-8652-f69f6693a2b0.xhtml
+	decay = decay-rate for adapt learning rate (in place of adam)
+	DBN : https://github.com/albertbup/deep-belief-network/blob/master/example_unsupervised.py
+
+
+créer la sauvegarde avec google colab
+	
+
+
